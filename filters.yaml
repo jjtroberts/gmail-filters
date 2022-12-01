@@ -1,0 +1,41 @@
+# All github notifications
+-
+  from: notifications@github.com
+  label: Github
+  not_important: true
+
+# Skip subscribed notifications that don't include me specifically
+-
+  from: notifications@github.com
+  cc: subscribed@noreply.github.com
+  to: -me
+  archive: true
+
+-
+  cc:
+    any:
+      - author@noreply.github.com
+      - manual@noreply.github.com
+      - mention@noreply.github.com
+      - team_mention@noreply.github.com
+      - assign@noreply.github.com
+      - state_change@noreply.github.com
+      - security_alert@noreply.github.com
+  important: true
+
+-
+  cc: review_requested@noreply.github.com
+  has: 'requested your review'
+  label: "RR/Me"
+  important: true
+
+-
+  cc: review_requested@noreply.github.com
+  has: 'requested review from'
+  label: "RR/Team"
+  important: true
+
+-
+  cc: push@noreply.github.com
+  archive: true
+  not_important: true
