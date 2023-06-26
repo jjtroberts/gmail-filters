@@ -11,6 +11,12 @@
   to: -me
   archive: true
 
+# Skip k8s-apps [AUTOMATION] messages
+-
+  from: notifications@github.com
+  has: '[AUTOMATION]'
+  archive: true
+
 -
   cc:
     any:
