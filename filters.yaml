@@ -22,6 +22,10 @@
   from: automation@banno.com
   has: '[For Approval]'
   archive: true
+-
+  from: approvers@banno.com
+  has: '[For Approval]'
+  archive: true
 
 -
   cc:
