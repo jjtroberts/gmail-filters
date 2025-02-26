@@ -21,7 +21,7 @@
   has: '[AUTOMATION]'
   archive: true
 
-# Skip k8s-apps [For Approval] messages
+# Skip banno automation messages
 -
   from: automation@banno.com
   has: '[For Approval]'
@@ -29,6 +29,10 @@
 -
   from: approvers@banno.com
   has: '[For Approval]'
+  archive: true
+-
+  from: development-noreply@banno.com
+  has: 'unattended-upgrades result'
   archive: true
 
 -
