@@ -3,6 +3,10 @@
   from: notifications@github.com
   label: Github
   not_important: true
+-
+  from: noreply@github.com
+  has: 'automatically subscribed to a repository on GitHub'
+  not_important: true
 
 # Skip subscribed notifications that don't include me specifically
 -
