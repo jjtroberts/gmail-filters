@@ -34,6 +34,18 @@
   from: development-noreply@banno.com
   has: 'unattended-upgrades result'
   archive: true
+-
+  from: staging-noreply@banno.com
+  has: 'unattended-upgrades result'
+  archive: true
+-
+  from: uat-noreply@banno.com
+  has: 'unattended-upgrades result'
+  archive: true
+-
+  from: production-noreply@banno.com
+  has: 'unattended-upgrades result'
+  archive: true
 
 -
   cc:
