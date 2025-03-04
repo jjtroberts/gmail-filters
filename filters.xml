@@ -4,18 +4,18 @@
   <entry>
     <category term="filter"/>
     <title>Mail Filter</title>
-    <id>tag:mail.google.com,2008:filter:8117610155493680454</id>
-    <updated>2025-02-27T14:26:29Z</updated>
+    <id>tag:mail.google.com,2008:filter:5056567416351563658</id>
+    <updated>2025-03-04T13:52:45Z</updated>
     <content/>
     <apps:property name="from" value="approvers@banno.com"/>
-    <apps:property name="hasTheWord" value="&quot;[For Approval]&quot;"/>
+    <apps:property name="hasTheWord" value="Approval"/>
     <apps:property name="shouldArchive" value="true"/>
   </entry>
   <entry>
     <category term="filter"/>
     <title>Mail Filter</title>
-    <id>tag:mail.google.com,2008:filter:4148712892366083620</id>
-    <updated>2025-02-27T14:26:29Z</updated>
+    <id>tag:mail.google.com,2008:filter:4265113711184194402</id>
+    <updated>2025-03-04T13:52:45Z</updated>
     <content/>
     <apps:property name="from" value="automation@banno.com"/>
     <apps:property name="hasTheWord" value="&quot;[For Approval]&quot;"/>
@@ -24,8 +24,8 @@
   <entry>
     <category term="filter"/>
     <title>Mail Filter</title>
-    <id>tag:mail.google.com,2008:filter:2480278215409861943</id>
-    <updated>2025-02-27T14:26:29Z</updated>
+    <id>tag:mail.google.com,2008:filter:8275842912621462750</id>
+    <updated>2025-03-04T13:52:45Z</updated>
     <content/>
     <apps:property name="from" value="development-noreply@banno.com"/>
     <apps:property name="hasTheWord" value="&quot;unattended-upgrades result&quot;"/>
@@ -34,8 +34,8 @@
   <entry>
     <category term="filter"/>
     <title>Mail Filter</title>
-    <id>tag:mail.google.com,2008:filter:5838756638166915312</id>
-    <updated>2025-02-27T14:26:29Z</updated>
+    <id>tag:mail.google.com,2008:filter:306963492569909071</id>
+    <updated>2025-03-04T13:52:45Z</updated>
     <content/>
     <apps:property name="from" value="noreply@github.com"/>
     <apps:property name="hasTheWord" value="&quot;automatically subscribed to a repository on GitHub&quot;"/>
@@ -44,8 +44,8 @@
   <entry>
     <category term="filter"/>
     <title>Mail Filter</title>
-    <id>tag:mail.google.com,2008:filter:2364088867225132137</id>
-    <updated>2025-02-27T14:26:29Z</updated>
+    <id>tag:mail.google.com,2008:filter:2328586804793331481</id>
+    <updated>2025-03-04T13:52:45Z</updated>
     <content/>
     <apps:property name="from" value="notifications@github.com"/>
     <apps:property name="hasTheWord" value="[AUTOMATION]"/>
@@ -54,8 +54,8 @@
   <entry>
     <category term="filter"/>
     <title>Mail Filter</title>
-    <id>tag:mail.google.com,2008:filter:3093699787766131173</id>
-    <updated>2025-02-27T14:26:29Z</updated>
+    <id>tag:mail.google.com,2008:filter:6261814158800532546</id>
+    <updated>2025-03-04T13:52:45Z</updated>
     <content/>
     <apps:property name="from" value="notifications@github.com"/>
     <apps:property name="hasTheWord" value="cc:(subscribed@noreply.github.com)"/>
@@ -65,8 +65,8 @@
   <entry>
     <category term="filter"/>
     <title>Mail Filter</title>
-    <id>tag:mail.google.com,2008:filter:281872490885326733</id>
-    <updated>2025-02-27T14:26:29Z</updated>
+    <id>tag:mail.google.com,2008:filter:2904432633100023000</id>
+    <updated>2025-03-04T13:52:45Z</updated>
     <content/>
     <apps:property name="from" value="notifications@github.com"/>
     <apps:property name="label" value="Github"/>
@@ -75,8 +75,8 @@
   <entry>
     <category term="filter"/>
     <title>Mail Filter</title>
-    <id>tag:mail.google.com,2008:filter:8298036186554062472</id>
-    <updated>2025-02-27T14:26:29Z</updated>
+    <id>tag:mail.google.com,2008:filter:2007877614211710322</id>
+    <updated>2025-03-04T13:52:45Z</updated>
     <content/>
     <apps:property name="from" value="production-noreply@banno.com"/>
     <apps:property name="hasTheWord" value="&quot;unattended-upgrades result&quot;"/>
@@ -85,8 +85,8 @@
   <entry>
     <category term="filter"/>
     <title>Mail Filter</title>
-    <id>tag:mail.google.com,2008:filter:979354950635246604</id>
-    <updated>2025-02-27T14:26:29Z</updated>
+    <id>tag:mail.google.com,2008:filter:359860836439215306</id>
+    <updated>2025-03-04T13:52:45Z</updated>
     <content/>
     <apps:property name="from" value="staging-noreply@banno.com"/>
     <apps:property name="hasTheWord" value="&quot;unattended-upgrades result&quot;"/>
@@ -95,8 +95,8 @@
   <entry>
     <category term="filter"/>
     <title>Mail Filter</title>
-    <id>tag:mail.google.com,2008:filter:7585503643994294034</id>
-    <updated>2025-02-27T14:26:29Z</updated>
+    <id>tag:mail.google.com,2008:filter:7425247322310092657</id>
+    <updated>2025-03-04T13:52:45Z</updated>
     <content/>
     <apps:property name="from" value="uat-noreply@banno.com"/>
     <apps:property name="hasTheWord" value="&quot;unattended-upgrades result&quot;"/>
@@ -105,8 +105,27 @@
   <entry>
     <category term="filter"/>
     <title>Mail Filter</title>
-    <id>tag:mail.google.com,2008:filter:2184901859453501330</id>
-    <updated>2025-02-27T14:26:29Z</updated>
+    <id>tag:mail.google.com,2008:filter:7135008601070417303</id>
+    <updated>2025-03-04T13:52:45Z</updated>
+    <content/>
+    <apps:property name="hasTheWord" value="cc:((assign@noreply.github.com OR author@noreply.github.com OR manual@noreply.github.com OR mention@noreply.github.com OR security_alert@noreply.github.com OR state_change@noreply.github.com OR team_mention@noreply.github.com))"/>
+    <apps:property name="shouldAlwaysMarkAsImportant" value="true"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:7286423959386146664</id>
+    <updated>2025-03-04T13:52:45Z</updated>
+    <content/>
+    <apps:property name="hasTheWord" value="cc:(push@noreply.github.com)"/>
+    <apps:property name="shouldArchive" value="true"/>
+    <apps:property name="shouldNeverMarkAsImportant" value="true"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:2168218675622653617</id>
+    <updated>2025-03-04T13:52:45Z</updated>
     <content/>
     <apps:property name="hasTheWord" value="(&quot;requested review from&quot; AND cc:(review_requested@noreply.github.com))"/>
     <apps:property name="label" value="RR/Team"/>
@@ -115,31 +134,12 @@
   <entry>
     <category term="filter"/>
     <title>Mail Filter</title>
-    <id>tag:mail.google.com,2008:filter:913279647741086566</id>
-    <updated>2025-02-27T14:26:29Z</updated>
+    <id>tag:mail.google.com,2008:filter:4205152369558686017</id>
+    <updated>2025-03-04T13:52:45Z</updated>
     <content/>
     <apps:property name="hasTheWord" value="(&quot;requested your review&quot; AND cc:(review_requested@noreply.github.com))"/>
     <apps:property name="label" value="RR/Me"/>
     <apps:property name="shouldAlwaysMarkAsImportant" value="true"/>
-  </entry>
-  <entry>
-    <category term="filter"/>
-    <title>Mail Filter</title>
-    <id>tag:mail.google.com,2008:filter:628126398831256759</id>
-    <updated>2025-02-27T14:26:29Z</updated>
-    <content/>
-    <apps:property name="hasTheWord" value="cc:((assign@noreply.github.com OR author@noreply.github.com OR manual@noreply.github.com OR mention@noreply.github.com OR security_alert@noreply.github.com OR state_change@noreply.github.com OR team_mention@noreply.github.com))"/>
-    <apps:property name="shouldAlwaysMarkAsImportant" value="true"/>
-  </entry>
-  <entry>
-    <category term="filter"/>
-    <title>Mail Filter</title>
-    <id>tag:mail.google.com,2008:filter:5935032722768864695</id>
-    <updated>2025-02-27T14:26:29Z</updated>
-    <content/>
-    <apps:property name="hasTheWord" value="cc:(push@noreply.github.com)"/>
-    <apps:property name="shouldArchive" value="true"/>
-    <apps:property name="shouldNeverMarkAsImportant" value="true"/>
   </entry>
 </feed>
 

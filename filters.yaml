@@ -28,7 +28,7 @@
   archive: true
 -
   from: approvers@banno.com
-  has: '[For Approval]'
+  has: 'Approval'
   archive: true
 -
   from: development-noreply@banno.com
