@@ -46,6 +46,10 @@
   from: production-noreply@banno.com
   has: 'unattended-upgrades result'
   archive: true
+-
+  from: infrastructure@banno.com
+  has: 'AWS'
+  archive: true
 
 -
   cc:
