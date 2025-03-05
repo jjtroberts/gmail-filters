@@ -28,7 +28,6 @@
   archive: true
 -
   from: approvers@banno.com
-  has: 'Approval'
   archive: true
 -
   from: development-noreply@banno.com
