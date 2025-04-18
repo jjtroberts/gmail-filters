@@ -49,6 +49,11 @@
   from: infrastructure@banno.com
   has: 'AWS'
   archive: true
+- 
+  from: edickson@jackhenry.com
+  has: 'Pineapple'
+  archive: true
+
 
 -
   cc:
