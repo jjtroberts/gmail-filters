@@ -53,7 +53,9 @@
   from: edickson@jackhenry.com
   has: 'Pineapple'
   archive: true
-
+- 
+  has: 'Synced invitation:'
+  archive: true
 
 -
   cc:
