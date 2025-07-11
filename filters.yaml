@@ -57,6 +57,10 @@
   has: 'Synced invitation:'
   archive: true
 
+- has: 'Mastercard'
+  from: infrastructure@banno.com
+  archive: true
+
 -
   cc:
     any:
