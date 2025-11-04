@@ -30,6 +30,9 @@
   from: approvers@banno.com
   archive: true
 -
+  from: jenkins@banno.com
+  archive: true
+-
   from: development-noreply@banno.com
   has: 'unattended-upgrades result'
   archive: true
